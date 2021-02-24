@@ -1,0 +1,14 @@
+#!name=69视频
+#!desc=69视频无限时长
+
+[Script]
+# 69
+69 = type=http-response,pattern=^http:\/\/69shipin\.vip\/api\/.*$,requires-body=1,max-size=0,script-path=69.js
+
+
+
+
+
+
+[MITM]
+hostname = 69shipin.vip
