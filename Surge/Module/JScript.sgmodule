@@ -12,4 +12,4 @@ mb.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com
 hanjuTV.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/hanjuTV.js,type=http-response,pattern=https\:\/\/hjapi\.bjxkhc\.com\/v2d2\/users\/.*\/member
 
 [MITM]
-hostname = %APPEND% *.snssdk.com, vsco.co, api.bjxkhc.com
+hostname = vsco.co, api.bjxkhc.com, api2.mubu.com
