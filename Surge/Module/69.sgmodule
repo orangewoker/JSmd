@@ -3,7 +3,7 @@
 
 [Script]
 # 69
-69 = type=http-response,pattern=^http:\/\/69shipin\.vip\/api\/.*$,requires-body=1,max-size=0,script-path=69.js
+69 = type=http-response,pattern=^http:\/\/69shipin\.vip\/api\/.*$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/orangewoker/JSmd/main/Surge/Module/692.js
 
 
 
