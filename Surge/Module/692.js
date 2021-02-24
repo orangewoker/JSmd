@@ -9,7 +9,12 @@ if ($request.url.indexOf("/user/personal") != -1){
     obj.data.huancun_count = 5201314;
     
 }
+if ($request.url.indexOf("/user/personal") != -1){
 
+    obj.code = 200;
+    
+    
+}
 
 
 $done({body: JSON.stringify(obj)});
